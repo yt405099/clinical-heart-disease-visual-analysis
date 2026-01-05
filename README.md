@@ -28,7 +28,7 @@ heart-disease-clinical-eda/
 │   ├── fig_02_age_distribution_by_outcome.png
 │   └── ...
 ├── data/
-│   └── heart_disease.csv              # Source dataset
+│   └── heart_disease_uci.csv          # Source dataset
 └── requirements.txt                   # Python dependencies
 ```
 
