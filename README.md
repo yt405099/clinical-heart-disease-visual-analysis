@@ -4,10 +4,10 @@ Publication-style EDA and clinical visualization of the UCI Heart Disease datase
 ---
 
 ## Key Findings
-- Heart disease prevalence increases with age, showing a clear distributional shift.  
-- Asymptomatic chest pain is associated with a higher proportion of heart disease cases.  
-- Exercise-related variables (`thalach`, `oldpeak`) differ substantially between outcome groups.  
-- Structural indicators such as `ca` and `thal` show strong visual association with disease presence.  
+- 
+-   
+-  
+- 
 
 ---
 
