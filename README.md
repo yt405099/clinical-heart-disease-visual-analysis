@@ -24,18 +24,21 @@ heart-disease-clinical-eda/
 ├── heart_disease_clinical_eda.ipynb   # Main analysis notebook
 ├── README.md                          # Project overview and findings
 ├── figures/                           # Saved publication-quality figures
-│   ├── fig_01_patient_demographics.png
-│   ├── fig_02_age_distribution_by_outcome.png
-│   └── ...
+│   ├── fig_0_age_by_outcome.png
+│   ├── fig_02_cp_by_outcome.png
+│   ├── fig_03_exang_by_outcome.png
+|   ├── fig_04_thalach_kde.png
+|   ├── fig_05_oldpeak_box.png
+|   ├── fig_06_ca_by_outcome.png
 ├── data/
 │   └── heart_disease_uci.csv          # Source dataset
 └── requirements.txt                   # Python dependencies
 ```
 
 
-![Age Distribution by Heart Disease Outcome](figures/fig_02_age_distribution_by_outcome.png)
-![Chest Pain Type vs Heart Disease](figures/fig_04_chest_pain_vs_disease.png)
-![Exercise-Induced Indicators Comparison](figures/fig_07_exercise_indicators.png)
+![Age by Heart Disease Outcome](figures/fig_01_age_outcome.png)
+![Chest Pain Type by Heart Disease Outcome](figures/fig_02_cp_by_outcome.png)
+![ST-Depression by Heart Disease Outcome](figures/fig_04_oldpeak_box.png)
 ---
 
 ## Limitations
